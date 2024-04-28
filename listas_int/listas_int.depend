@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1692133862 source:c:\users\nperez\desktop\listas_int\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1584205420 source:c:\users\nperez\desktop\listas_int\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1692132787 source:c:\users\nperez\desktop\listas_int\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1692132787 c:\users\nperez\desktop\listas_int\nodo.h
+
+1692133422 c:\users\nperez\desktop\listas_int\lista.h
+	"nodo.h"
+
+1714322538 source:c:\users\user\downloads\listas_int (2)\listas_int\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1714322538 c:\users\user\downloads\listas_int (2)\listas_int\lista.h
+	"nodo.h"
+
+1714320759 c:\users\user\downloads\listas_int (2)\listas_int\nodo.h
+
+1714321989 source:c:\users\user\downloads\listas_int (2)\listas_int\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1714321549 source:c:\users\user\downloads\listas_int (2)\listas_int\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
