@@ -22,15 +22,15 @@ int main()
     insertarPosicion(lista,10,4);
     mostrarLista(lista);
 
-    printf("\nObtener primero\n");
+    printf("\n\nObtener primero\n");
     int primero = obtenerPrimero(lista);
     printf("%d",primero);
 
-    printf("\nObtener ultimo\n");
+    printf("\n\nObtener ultimo\n");
     int ultimo = obtenerUltimo(lista);
     printf("%d",ultimo);
 
-    printf("\nObtener dato en posicion 2\n");
+    printf("\n\nObtener dato en posicion 2\n");
     int dato = obtenerPosicion(lista,2);
     printf("%d",dato);
 
