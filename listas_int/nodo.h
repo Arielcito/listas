@@ -8,7 +8,7 @@ void mostrarNodo(NodoPtr nodo);
 void liberarNodo(NodoPtr nodo);
 
 int getDatoNodo(NodoPtr nodo);
-NodoPtr getSiguienteDatoNodo(NodoPtr nodo);
+NodoPtr getSiguienteNodo(NodoPtr nodo);
 
 void setDatoNodo(NodoPtr nodo,int d);
 void setSiguienteNodo(NodoPtr nodo,NodoPtr sig);

@@ -7,6 +7,8 @@ typedef struct Lista * ListaPtr;
 
 ListaPtr crearLista();
 
+void setNodoLista(ListaPtr lista, NodoPtr primero);
+NodoPtr getNodoLista(ListaPtr lista);
 
 void insertarPrimero(ListaPtr lista, int dato);
 void insertarUltimo(ListaPtr lista, int dato); //tarea
@@ -19,7 +21,7 @@ int obtenerPosicion(ListaPtr lista,int posicion); //tarea
 
 int eliminarPrimero(ListaPtr lista);
 int eliminarUltimo(ListaPtr lista); //tarea
-int eliminarposicicon(ListaPtr lista); //tarea
+int eliminarPosicion(ListaPtr lista, int posicion); //tarea
 
 int obtenerTamanio(ListaPtr lista); //tarea
 

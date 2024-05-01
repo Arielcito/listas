@@ -38,3 +38,23 @@
 	<stdlib.h>
 	"nodo.h"
 
+1714528055 source:c:\users\ariel.serato\desktop\programacion\listas\listas_int\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1714523261 c:\users\ariel.serato\desktop\programacion\listas\listas_int\lista.h
+	"nodo.h"
+
+1714522054 c:\users\ariel.serato\desktop\programacion\listas\listas_int\nodo.h
+
+1714524886 source:c:\users\ariel.serato\desktop\programacion\listas\listas_int\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1714521081 source:c:\users\ariel.serato\desktop\programacion\listas\listas_int\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
